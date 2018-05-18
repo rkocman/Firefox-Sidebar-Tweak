@@ -1,0 +1,24 @@
+/**
+ * Compact Sidebar Bookmarks for Firefox Quantum
+ * Github: https://github.com/rkocman/Firefox-Sidebar-Tweak
+ * Tested on: Windows 7/10, Firefox 59+
+ */
+
+#sidebar-header {
+    font-size: 1.21em !important;
+    padding: 3px !important;
+}
+#sidebar-search-container {
+    padding: 5px !important;
+}
+.sidebar-placesTree treechildren::-moz-tree-row {
+    height: 1.3em !important;
+    border-width: 1px !important;
+}
+.sidebar-placesTree treechildren::-moz-tree-indentation {
+    width: 0 !important;
+}
+.sidebar-placesTree treechildren::-moz-tree-twisty {
+    padding-inline-start: 0 !important;
+    padding-inline-end: 2px !important;
+}
