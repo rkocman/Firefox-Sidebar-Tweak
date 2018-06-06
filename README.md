@@ -1,13 +1,13 @@
 # Compact Sidebar Bookmarks for Firefox Quantum
 
-With every new redesign of Firefox, the sidebar require more and more space.
+With every new redesign of Firefox, the sidebar requires more and more space.
 Back in the old days of Firefox 1&ndash;2, the sidebar compactly showed only Unsorted Bookmarks. 
 First, Firefox 3 changed the default list of showed groups.
 Next, somewhere along the way, spaces between bookmarks got bigger.
-But it was possible to revert these changes with extensions.
-Now, with the arrival of Firefox Quantum, extensions can no longer modify these things.
+Nonetheless, it was possible to revert these changes with extensions.
+But now, with the arrival of Firefox Quantum, extensions can no longer modify the sidebar.
 
-This tweak is trying to recreate the compact appearance of bookmarks in the sidebar with the use of custom styles. Note, however, that this technique has its limitations. 
+This tweak is trying to recreate the old compact appearance of bookmarks in the sidebar with the use of custom styles. Note, however, that this technique has its limitations. 
 
 **Status:** completed (maintained)  
 **Tested on:** Windows 7/10, Firefox 59+
